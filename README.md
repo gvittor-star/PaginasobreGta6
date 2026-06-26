@@ -13,7 +13,7 @@
 
 <body>
     <header>
-        <h1>Crie um nome legal para seu bolog</h1>
+        <h1>GTA6 Guia de Mapas</h1>
         <p>Faça uma introdução ao assunto, explique seu objetivo</p>
     </header>
     <main>
